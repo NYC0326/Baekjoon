@@ -1,0 +1,1 @@
+{"name":"Local: 2083","url":"c:\\Codes\\Baekjoon\\2083\\2083.py","tests":[{"id":1674670441535,"input":"Joe 16 34\nBill 18 65\nBilly 17 65\nSam 17 85\n# 0 0","output":"Joe Junior\nBill Senior\nBilly Junior\nSam Senior"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\2083\\2083.py","group":"local","local":true}
