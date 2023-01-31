@@ -1,0 +1,1 @@
+{"name":"Local: 5635","url":"c:\\Codes\\Baekjoon\\5635\\5635.cpp","tests":[{"id":1675195135809,"input":"5\nMickey 1 10 1991\nAlice 30 12 1990\nTom 15 8 1993\nJerry 18 9 1990\nGarfield 20 9 1990","output":"Tom\nJerry"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\5635\\5635.cpp","group":"local","local":true}
