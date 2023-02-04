@@ -1,0 +1,1 @@
+{"name":"Local: 10998","url":"c:\\Codes\\Baekjoon\\10998\\10998.c","tests":[{"id":1675493127199,"input":"1 2","output":"2"},{"id":1675493130304,"input":"3 4","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\10998\\10998.c","group":"local","local":true}
