@@ -1,20 +1,20 @@
 {
-	"files.associations": {
-		"*.html": "html",
-		"typeinfo": "cpp",
-		"ostream": "cpp"
-	},
-	"prettier.tabWidth": 4,
-	"prettier.useTabs": true,
-	"editor.detectIndentation": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"prettier.printWidth": 250,
-	"prettier.singleQuote": true,
-	"editor.insertSpaces": false,
-	"[cpp]": {
-		"editor.insertSpaces": false
-	},
-	"editor.formatOnPaste": true,
-	"editor.formatOnSave": true,
-	"editor.formatOnType": true
+    "files.associations": {
+        "*.html": "html",
+        "typeinfo": "cpp",
+        "ostream": "cpp"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": false,
+    "editor.detectIndentation": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.printWidth": 250,
+    "prettier.singleQuote": true,
+    "editor.insertSpaces": true,
+    "[cpp]": {
+        "editor.insertSpaces": false
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
 }
