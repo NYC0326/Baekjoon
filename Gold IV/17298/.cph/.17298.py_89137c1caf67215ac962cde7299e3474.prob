@@ -1,0 +1,1 @@
+{"name":"Local: 17298","url":"c:\\Codes\\Baekjoon\\Gold IV\\17298\\17298.py","tests":[{"id":1675624157582,"input":"4\n3 5 2 7","output":"5 7 7 -1"},{"id":1675624163309,"input":"4\n9 5 4 8","output":"-1 8 8 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Gold IV\\17298\\17298.py","group":"local","local":true}
