@@ -1,0 +1,1 @@
+{"name":"Local: 10799","url":"c:\\Codes\\Baekjoon\\Silver II\\10799\\10799.py","tests":[{"id":1675613530826,"input":"()(((()())(())()))(())","output":"17"},{"id":1675613535503,"input":"(((()(()()))(())()))(()())","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Silver II\\10799\\10799.py","group":"local","local":true}
