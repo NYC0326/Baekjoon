@@ -17,3 +17,5 @@ for i in range(n):
         stk.append(cmd[-1])
 
 print(''.join(stk+list(reversed(stk2))))
+
+# insert 방법은 시간복잡도가 O(N)이라 시간 초과 뜸. append랑 pop은 O(1)임
