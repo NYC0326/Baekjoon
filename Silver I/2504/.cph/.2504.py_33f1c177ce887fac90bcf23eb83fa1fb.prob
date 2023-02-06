@@ -1,0 +1,1 @@
+{"name":"Local: 2504","url":"c:\\Codes\\Baekjoon\\Silver I\\2504\\2504.py","tests":[{"id":1675692171875,"input":"(()[[]])([])","output":"28"},{"id":1675692178940,"input":"[][]((])","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Silver I\\2504\\2504.py","group":"local","local":true}
