@@ -23,7 +23,6 @@ for i in s:
         ans.append(i)
     else:
         stk.append(i)
-    # print(ans, stk)
 
 flip()
 print(''.join(ans))
