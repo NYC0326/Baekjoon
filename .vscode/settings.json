@@ -2,7 +2,8 @@
     "files.associations": {
         "*.html": "html",
         "typeinfo": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "1729.C": "cpp"
     },
     "prettier.tabWidth": 4,
     "prettier.useTabs": false,
