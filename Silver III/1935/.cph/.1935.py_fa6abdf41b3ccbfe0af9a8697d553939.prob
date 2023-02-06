@@ -1,0 +1,1 @@
+{"name":"Local: 1935","url":"c:\\Codes\\Baekjoon\\Silver III\\1935\\1935.py","tests":[{"id":1675703436696,"input":"5\nABC*+DE/-\n1\n2\n3\n4\n5","output":"6.20"},{"id":1675703442609,"input":"1\nAA+A+\n1","output":"3.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Silver III\\1935\\1935.py","group":"local","local":true}
