@@ -1,0 +1,1 @@
+{"name":"Local: 5086","url":"c:\\Codes\\Baekjoon\\Bronze III\\5086\\5086.c","tests":[{"id":1678534093341,"input":"8 16\n32 4\n17 5\n0 0","output":"factor\nmultiple\nneither"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Bronze III\\5086\\5086.c","group":"local","local":true}
