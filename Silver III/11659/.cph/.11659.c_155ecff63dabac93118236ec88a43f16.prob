@@ -1,0 +1,1 @@
+{"name":"Local: 11659","url":"c:\\Codes\\Baekjoon\\Silver III\\11659\\11659.c","tests":[{"id":1679743034737,"input":"5 3\n5 4 3 2 1\n1 3\n2 4\n5 5","output":"12\n9\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Silver III\\11659\\11659.c","group":"local","local":true}
