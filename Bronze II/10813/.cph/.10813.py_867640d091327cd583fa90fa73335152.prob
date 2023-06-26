@@ -1,0 +1,1 @@
+{"name":"Local: 10813","url":"c:\\Codes\\Baekjoon\\Bronze II\\10813\\10813.py","tests":[{"id":1680240671096,"input":"5 4\n1 2\n3 4\n1 4\n2 2","output":"3 1 4 2 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Bronze II\\10813\\10813.py","group":"local","local":true}
