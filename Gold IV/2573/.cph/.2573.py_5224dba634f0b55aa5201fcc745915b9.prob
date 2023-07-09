@@ -1,0 +1,1 @@
+{"name":"Local: 2573","url":"c:\\Codes\\Baekjoon\\Gold IV\\2573\\2573.py","tests":[{"id":1688664961977,"input":"5 7\n0 0 0 0 0 0 0\n0 2 4 5 3 0 0\n0 3 0 2 5 2 0\n0 7 6 2 4 0 0\n0 0 0 0 0 0 0","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Gold IV\\2573\\2573.py","group":"local","local":true}
