@@ -1,0 +1,1 @@
+{"name":"Local: 10026","url":"c:\\Codes\\Baekjoon\\Gold V\\10026\\10026.py","tests":[{"id":1689016669054,"input":"5\nRRRBB\nGGBBB\nBBBRR\nBBRRR\nRRRRR","output":"4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Gold V\\10026\\10026.py","group":"local","local":true}
