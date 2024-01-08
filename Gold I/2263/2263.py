@@ -6,7 +6,7 @@ n = int(input())
 inorder = list(map(int, input().split()))
 postorder = list(map(int, input().split()))
 
-node = [0]*(n+1)  # ¿ø¼ÒÀÇ ÀÎµ¦½º¸¦ ÀúÀåÇÒ ¹è¿­
+node = [0]*(n+1)  # ì›ì†Œì˜ ì¸ë±ìŠ¤ë¥¼ ì €ì¥í•  ë°°ì—´
 for i in range(n):
     node[inorder[i]] = i
 
@@ -15,14 +15,14 @@ def preorder(inStart, inEnd, postStart, postEnd):
     if inStart > inEnd or postStart > postEnd:
         return
 
-    root = postorder[postEnd]  # ÈÄÀ§¼øÈ¸¿¡¼­ ¸¶Áö¸· ¿ø¼Ò°¡ ÃÖ»óÀ§ ·çÆ®ÀÓ
+    root = postorder[postEnd]  # í›„ìœ„ìˆœíšŒì—ì„œ ë§ˆì§€ë§‰ ì›ì†Œê°€ ìµœìƒìœ„ ë£¨íŠ¸ì„
 
-    leftNode = node[root] - inStart  # ¿ŞÂÊ ¼­ºê Æ®¸® ¿ø¼Ò °³¼ö
-    rightNode = inEnd - node[root]  # ¿À¸¥ÂÊ ¼­ºê Æ®¸® ¿ø¼Ò °³¼ö
-    # ÀüÀ§ ¼øÈ¸´Â VLR ¼ø¼­·Î ¼øÈ¸, root ¸ÕÀú Ãâ·Â ÈÄ ¿ŞÂÊ ¼­ºê Æ®¸® ¼øÈ¸
+    leftNode = node[root] - inStart  # ì™¼ìª½ ì„œë¸Œ íŠ¸ë¦¬ ì›ì†Œ ê°œìˆ˜
+    rightNode = inEnd - node[root]  # ì˜¤ë¥¸ìª½ ì„œë¸Œ íŠ¸ë¦¬ ì›ì†Œ ê°œìˆ˜
+    # ì „ìœ„ ìˆœíšŒëŠ” VLR ìˆœì„œë¡œ ìˆœíšŒ, root ë¨¼ì € ì¶œë ¥ í›„ ì™¼ìª½ ì„œë¸Œ íŠ¸ë¦¬ ìˆœíšŒ
     print(root, end=" ")
     preorder(inStart, inStart+leftNode-1, postStart,
-             postStart+leftNode-1)  # ¿ŞÂÊ ¼­ºêÆ®¸® ¼øÈ¸
+             postStart+leftNode-1)  # ì™¼ìª½ ì„œë¸ŒíŠ¸ë¦¬ ìˆœíšŒ
     preorder(inEnd-rightNode+1, inEnd, postEnd-rightNode, postEnd-1)
 
 
