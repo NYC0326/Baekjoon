@@ -1,0 +1,1 @@
+{"name":"Local: 5430","url":"c:\\Codes\\Baekjoon\\Gold V\\5430\\5430.c","tests":[{"id":1683976888841,"input":"4\nRDD\n4\n[1,2,3,4]\nDD\n1\n[42]\nRRD\n6\n[1,1,2,3,5,8]\nD\n0\n[]","output":"[2,1]\nerror\n[1,2,3,5,8]\nerror"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Gold V\\5430\\5430.c","group":"local","local":true}

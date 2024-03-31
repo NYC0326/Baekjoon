@@ -1,0 +1,1 @@
+{"name":"Local: 2751","url":"c:\\Codes\\Baekjoon\\Silver V\\2751\\2751.c","tests":[{"id":1678620491063,"input":"7\n-1000000\n-999999\n-500000\n0\n500000\n999999\n1000000","output":"-1000000\n-999999\n-500000\n0\n500000\n999999\n1000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Silver V\\2751\\2751.c","group":"local","local":true}

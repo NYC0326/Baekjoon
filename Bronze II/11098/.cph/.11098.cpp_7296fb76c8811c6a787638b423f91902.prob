@@ -1,0 +1,1 @@
+{"name":"Local: 11098","url":"c:\\Codes\\Baekjoon\\11098\\11098.cpp","tests":[{"id":1675060548066,"input":"2\n3\n10 Iversen\n1000000 Nannskog\n2000000 Ronaldinho\n2\n1000000 Maradona\n999999 Batistuta","output":"Ronaldinho\nMaradona"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\11098\\11098.cpp","group":"local","local":true}

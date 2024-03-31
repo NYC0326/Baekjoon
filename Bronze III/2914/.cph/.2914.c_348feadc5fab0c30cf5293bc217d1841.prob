@@ -1,0 +1,1 @@
+{"name":"Local: 2914","url":"c:\\Codes\\Baekjoon\\2914\\2914.c","tests":[{"id":1675407375921,"input":"38 24","output":"875"},{"id":1675407380733,"input":"1 100","output":"100"},{"id":1675407383619,"input":"10 10","output":"91"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\2914\\2914.c","group":"local","local":true}

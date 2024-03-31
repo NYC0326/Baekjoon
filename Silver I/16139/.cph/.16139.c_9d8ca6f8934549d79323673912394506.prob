@@ -1,0 +1,1 @@
+{"name":"Local: 16139","url":"c:\\Codes\\Baekjoon\\Silver I\\16139\\16139.c","tests":[{"id":1679831618620,"input":"seungjaehwang\n4\na 0 5\na 0 6\na 6 10\na 7 10","output":"0\n1\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\Baekjoon\\Silver I\\16139\\16139.c","group":"local","local":true}
