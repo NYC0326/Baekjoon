@@ -11,5 +11,5 @@ for i in range(N):
         if reversed_arr[i] > reversed_arr[j]:
             decrease[i] = max(decrease[i], decrease[j]+1)
 
-ans = [increase[i] + decrease[i] for i in range(N)]
+ans = [increase[i] + decrease[N-i-1] - 1 for i in range(N)]
 print(max(ans))
